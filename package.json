@@ -1,0 +1,15 @@
+{
+  "name": "pofresh-status-plugin",
+  "version": "1.0.0",
+  "private": false,
+  "author": "py8765 pengyang633@126.com/@py8765",
+  "contributors":[
+  	{
+  		"name": "gitig"
+  	}
+  ],
+  "dependencies": {
+    "redis": "2.8.0",
+    "pofresh-logger": "1.0.2"
+  }
+}
